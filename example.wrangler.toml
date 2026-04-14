@@ -1,0 +1,10 @@
+name = "auto-reaction-bot"
+main = "src/index.js"
+compatibility_date = "2024-02-08"
+
+[vars]
+BOT_TOKEN = "8238984011:AAGBku-XjaEAdK7oNcpZK-WKvNGNVo-qYBI"
+BOT_USERNAME = "Pencarinnannanabot"
+EMOJI_LIST = "👍❤🔥🥰👏😁🎉🤩🙏👌🕊😍🐳❤‍🔥💯⚡🏆"
+RANDOM_LEVEL = "2"
+RESTRICTED_CHATS = "1234,5678"
